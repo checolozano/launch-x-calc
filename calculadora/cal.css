@@ -1,0 +1,35 @@
+.calculadora{
+    border: 1px solid #2d354a;
+    width: 310px;
+    height: 450px;
+    position: fixed;
+    left: 50%;
+    top: 10%;
+    box-shadow: 2px 4px 19px;
+    background: #2d354a;
+    text-align: center;
+
+
+}
+
+.centro{
+    margin-left: 5px;
+    margin-top: 20px;
+    width: 300px;
+    height: 430px;
+}
+
+button {
+    width: 100%;
+    font-size: 180%;
+    height: 80%;
+}
+
+table{
+    height: 400px;
+	margin: 0 auto;
+}
+
+.clr{
+    width: 150%;
+}
